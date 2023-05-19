@@ -62,7 +62,7 @@ aside p {
 
 aside span {
   font-size: 1.2rem;
-  color: #9e9ea0; 
+  color: #9e9ea0;
 }
 
 nav {
@@ -144,7 +144,7 @@ nav {
 @keyframes entering {
   from {
     opacity: 0;
-    transform: translateY(-200px);
+    transform: translateY(-500px);
   }
   to {
     opacity: 1;
